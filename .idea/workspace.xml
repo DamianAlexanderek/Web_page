@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d66c850c-e31c-45b4-ae3d-cadb39f0e8b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wpkowalewscy.pl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/fonts/globe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attitude/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/BELG-07-6155878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/BELG-11-5104202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/BELG-14-2090035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/BELG-15-2213212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-01013-10-224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-01522-07-238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-03379-11-206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-03379-13-45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-03379-13-78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-05-191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-07-161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-07-241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-09-1022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-11-1433.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-12-596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0442-12-818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-04976-08-1001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0672-14-281.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-08654-11-232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-08654-13-1642.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-09066-12-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0954-11-2877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DV-0987-09-417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Damian.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GB-A-14-28888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GB-A-14-28891.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/NL-06-1391384.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/NL-06-1426007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/NL-09-1524493.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/NL-10-1687821.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/NL-10-2008421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0263-09-12992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0352-15-10058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-09-8058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-10-23041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-10-23219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-11-12840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-11-5412.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-11-5417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-11-5464.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-11-5465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-12-128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-12-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-12-39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-12-47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-12-6310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-13-9155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-13-9276.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-1899.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-1900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2539.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2551.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2561.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2590.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2598.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2607.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-14-2628.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6470.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6498.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-15-6500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-1295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-1296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-1824.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-1825.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0354-16-992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0370-14-4439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0393-13-9752.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0395-13-12837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0395-13-12840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0432-16-1272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0432-16-1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0442-12-670.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-0446-13-7829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PL-087-16-9993.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/belg_08_6380182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dv-01522-07-230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gołębie w locie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lotowy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nl-06-1425907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-12-42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-13-2947.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-13-9247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-14-2521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-14-2559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-14-2563.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-14-2608.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl-0354-14-92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl_11_498533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/roczne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rozplod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pigeons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="cd4d2a23-f9b2-49d7-b2e7-03f548cbc6d1" />
+  <component name="ProjectId" id="1jkJzZLk7vzyYexjnEwKxcFsjGQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/attitude/fonts" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/attitude/fonts" />
+      <recent name="$PROJECT_DIR$/attitude/js" />
+      <recent name="$PROJECT_DIR$/attitude" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/attitude/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66c850c-e31c-45b4-ae3d-cadb39f0e8b1" name="Default Changelist" comment="" />
+      <created>1604342418504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604342418504</updated>
+      <workItem from="1604342419542" duration="7005000" />
+      <workItem from="1604349916365" duration="6971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2422" y="467" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604350008853">
+      <screen x="1920" y="312" width="1366" height="768" />
+    </state>
+    <state x="2422" y="467" width="424" height="491" key="FileChooserDialogImpl/1920.312.1366.768/0.339.1920.741@1920.312.1366.768" timestamp="1604350008853" />
+    <state x="2467" y="609" width="343" height="207" key="Github.ShareDialog" timestamp="1604356893433">
+      <screen x="1920" y="312" width="1366" height="768" />
+    </state>
+    <state x="2467" y="609" width="343" height="207" key="Github.ShareDialog/1920.312.1366.768/0.339.1920.741@1920.312.1366.768" timestamp="1604356893433" />
+    <state x="2518" y="454" width="231" height="518" key="Github.UntrackedFilesDialog" timestamp="1604356970506">
+      <screen x="1920" y="312" width="1366" height="768" />
+    </state>
+    <state x="2518" y="454" width="231" height="518" key="Github.UntrackedFilesDialog/1920.312.1366.768/0.339.1920.741@1920.312.1366.768" timestamp="1604356970506" />
+    <state x="2128" y="343" width="1022" height="737" key="SettingsEditor" timestamp="1604356515079">
+      <screen x="1920" y="312" width="1366" height="768" />
+    </state>
+    <state x="2128" y="343" width="1022" height="737" key="SettingsEditor/1920.312.1366.768/0.339.1920.741@1920.312.1366.768" timestamp="1604356515079" />
+    <state x="2234" y="445" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604357207887">
+      <screen x="1920" y="312" width="1366" height="768" />
+    </state>
+    <state x="2234" y="445" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.312.1366.768/0.339.1920.741@1920.312.1366.768" timestamp="1604357207887" />
+  </component>
+</project>
